@@ -1,0 +1,8 @@
+{
+  "name": "김영훈 기자",
+  "description": "MK스포츠 4년차 스포츠 기자 김영훈의 대표 기사 아카이브, 현장 취재 이력, 채용 및 협업 문의 포트폴리오.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
